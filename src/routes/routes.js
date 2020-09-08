@@ -2,6 +2,7 @@ import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import * as React from 'react';
+
 import { Home } from './../pages/Home';
 import { Profile } from './../pages/Profile';
 import { CameraApp } from '../pages/Camera';
